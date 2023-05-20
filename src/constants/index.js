@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    pinc,
   } from "../assets";
   
   export const navLinks = [
@@ -157,7 +158,7 @@ import {
     {
       title: "Full stack Developer",
       company_name: "Meta",
-      icon: meta,
+      icon: pinc,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
